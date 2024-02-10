@@ -1,0 +1,225 @@
+scientificName,scientificNameID,taxonRank,kingdom,phylum,class,order,family,genus,scientificNameAuthorship,verbatimIdentification
+Acartia,urn:lsid:marinespecies.org:taxname:104108,Genus,Animalia,Arthropoda,Copepoda,Calanoida,Acartiidae,Acartia,"Dana, 1846",acartia
+Acartia hudsonica,urn:lsid:marinespecies.org:taxname:157664,Species,Animalia,Arthropoda,Copepoda,Calanoida,Acartiidae,Acartia,"Pinhey, 1926",acartia hudsonica
+Acartia longiremis,urn:lsid:marinespecies.org:taxname:104257,Species,Animalia,Arthropoda,Copepoda,Calanoida,Acartiidae,Acartia,"(Lilljeborg, 1853)",acartia longiremis
+Acartia tonsa,urn:lsid:marinespecies.org:taxname:104262,Species,Animalia,Arthropoda,Copepoda,Calanoida,Acartiidae,Acartia,"Dana, 1849",acartia tonsa
+Aegina citrea,urn:lsid:marinespecies.org:taxname:117263,Species,Animalia,Cnidaria,Hydrozoa,Narcomedusae,Aeginidae,Aegina,"Eschscholtz, 1829",aegina citrea
+Aequorea victoria,urn:lsid:marinespecies.org:taxname:283998,Species,Animalia,Cnidaria,Hydrozoa,Leptothecata,Aequoreidae,Aequorea,"(Murbach & Shearer, 1902)",aequorea victoria
+Aetideidae,urn:lsid:marinespecies.org:taxname:104075,Family,Animalia,Arthropoda,Copepoda,Calanoida,Aetideidae,,"Giesbrecht, 1892",aetideidae
+Aetideus,urn:lsid:marinespecies.org:taxname:104112,Genus,Animalia,Arthropoda,Copepoda,Calanoida,Aetideidae,Aetideus,"Brady, 1883",aetideus
+Aglantha digitale,urn:lsid:marinespecies.org:taxname:117849,Species,Animalia,Cnidaria,Hydrozoa,Trachymedusae,Rhopalonematidae,Aglantha,"(O. F. Müller, 1776)",aglantha digitale
+Amphinema,urn:lsid:marinespecies.org:taxname:117178,Genus,Animalia,Cnidaria,Hydrozoa,Anthoathecata,Pandeidae,Amphinema,"Haeckel, 1879",amphinema
+Amphipoda,urn:lsid:marinespecies.org:taxname:1135,Order,Animalia,Arthropoda,Malacostraca,Amphipoda,,,"Latreille, 1816",amphipoda
+Animalia,urn:lsid:marinespecies.org:taxname:2,Kingdom,Animalia,,,,,,,animalia
+Annelida,urn:lsid:marinespecies.org:taxname:882,Phylum,Animalia,Annelida,,,,,"Lamarck, 1802 [as Annelides]",annelida
+Anomura,urn:lsid:marinespecies.org:taxname:106671,Infraorder,Animalia,Arthropoda,Malacostraca,Decapoda,,,"MacLeay, 1838",anomura
+Anthoathecata,urn:lsid:marinespecies.org:taxname:13551,Order,Animalia,Cnidaria,Hydrozoa,Anthoathecata,,,"Cornelius, 1992",anthoathecata
+Anthozoa,urn:lsid:marinespecies.org:taxname:1292,Class,Animalia,Cnidaria,Anthozoa,,,,"Ehrenberg, 1834",anthozoa
+Ascidiacea,urn:lsid:marinespecies.org:taxname:1839,Class,Animalia,Chordata,Ascidiacea,,,,"Blainville, 1824",ascidiacea
+Aurelia labiata,urn:lsid:marinespecies.org:taxname:287213,Species,Animalia,Cnidaria,Scyphozoa,Semaeostomeae,Ulmaridae,Aurelia,"Chamisso & Eysenhardt, 1821",aurelia labiata
+Beroe,urn:lsid:marinespecies.org:taxname:1434803,Genus,Animalia,Ctenophora,Nuda,Beroida,Beroidae,Beroe,"O.F. Müller, 1776",beroe
+Bivalvia,urn:lsid:marinespecies.org:taxname:105,Class,Animalia,Mollusca,Bivalvia,,,,"Linnaeus, 1758",bivalvia
+Bougainvillia,urn:lsid:marinespecies.org:taxname:117015,Genus,Animalia,Cnidaria,Hydrozoa,Anthoathecata,Bougainvilliidae,Bougainvillia,"Lesson, 1830",bougainvillia
+Brachyura,urn:lsid:marinespecies.org:taxname:106673,Infraorder,Animalia,Arthropoda,Malacostraca,Decapoda,,,"Latreille, 1802",brachyura
+Bradyidius saanichi,urn:lsid:marinespecies.org:taxname:346179,Species,Animalia,Arthropoda,Copepoda,Calanoida,Aetideidae,Bradyidius,"Park, 1966",bradyidius saanichi
+Bryozoa,urn:lsid:marinespecies.org:taxname:146142,Phylum,Animalia,Bryozoa,,,,,,bryozoa
+Calanoida,urn:lsid:marinespecies.org:taxname:1100,Order,Animalia,Arthropoda,Copepoda,Calanoida,,,"Sars G.O., 1903",calanoida
+Calanus,urn:lsid:marinespecies.org:taxname:104152,Genus,Animalia,Arthropoda,Copepoda,Calanoida,Calanidae,Calanus,"Leach, 1816",calanus
+Calanus marshallae,urn:lsid:marinespecies.org:taxname:196770,Species,Animalia,Arthropoda,Copepoda,Calanoida,Calanidae,Calanus,"Frost, 1974",calanus marshallae
+Calanus pacificus,urn:lsid:marinespecies.org:taxname:196771,Species,Animalia,Arthropoda,Copepoda,Calanoida,Calanidae,Calanus,"Brodsky, 1948",calanus pacificus
+Caligidae,urn:lsid:marinespecies.org:taxname:135513,Family,Animalia,Arthropoda,Copepoda,Siphonostomatoida,Caligidae,,"Burmeister, 1835",caligidae
+Calocalanus,urn:lsid:marinespecies.org:taxname:104193,Genus,Animalia,Arthropoda,Copepoda,Calanoida,Paracalanidae,Calocalanus,"Giesbrecht, 1888",calocalanus
+Calycophorae,urn:lsid:marinespecies.org:taxname:135333,Suborder,Animalia,Cnidaria,Hydrozoa,Siphonophorae,,,"Leuckart, 1854",calycophorae
+Cancer productus,urn:lsid:marinespecies.org:taxname:440382,Species,Animalia,Arthropoda,Malacostraca,Decapoda,Cancridae,Cancer,"Randall, 1840",cancer productus
+Cancridae,urn:lsid:marinespecies.org:taxname:106749,Family,Animalia,Arthropoda,Malacostraca,Decapoda,Cancridae,,"Latreille, 1802",cancridae
+Candacia,urn:lsid:marinespecies.org:taxname:104157,Genus,Animalia,Arthropoda,Copepoda,Calanoida,Candaciidae,Candacia,"Dana, 1846",candacia
+Candacia bipinnata,urn:lsid:marinespecies.org:taxname:104475,Species,Animalia,Arthropoda,Copepoda,Calanoida,Candaciidae,Candacia,"(Giesbrecht, 1889)",candacia bipinnata
+Candacia columbiae,urn:lsid:marinespecies.org:taxname:349800,Species,Animalia,Arthropoda,Copepoda,Calanoida,Candaciidae,Candacia,"Campbell, 1929",candacia columbiae
+Caprellidae,urn:lsid:marinespecies.org:taxname:101361,Family,Animalia,Arthropoda,Malacostraca,Amphipoda,Caprellidae,,"Leach, 1814",caprellidae
+Centropages,urn:lsid:marinespecies.org:taxname:104159,Genus,Animalia,Arthropoda,Copepoda,Calanoida,Centropagidae,Centropages,"Krøyer, 1849",centropages
+Centropages abdominalis,urn:lsid:marinespecies.org:taxname:196774,Species,Animalia,Arthropoda,Copepoda,Calanoida,Centropagidae,Centropages,"Sato, 1913",centropages abdominalis
+Chaetognatha,urn:lsid:marinespecies.org:taxname:2081,Phylum,Animalia,Chaetognatha,,,,,,chaetognatha
+Chionoecetes,urn:lsid:marinespecies.org:taxname:106898,Genus,Animalia,Arthropoda,Malacostraca,Decapoda,Oregoniidae,Chionoecetes,"Krøyer, 1838",chionoecetes
+Chiridius gracilis,urn:lsid:marinespecies.org:taxname:104290,Species,Animalia,Arthropoda,Copepoda,Calanoida,Aetideidae,Chiridius,"Farran, 1908",chiridius gracilis
+Cirripedia,urn:lsid:marinespecies.org:taxname:1082,Subclass,Animalia,Arthropoda,Thecostraca,,,,"Burmeister, 1834",cirripedia
+Cladocera,urn:lsid:marinespecies.org:taxname:1076,Order,Animalia,Arthropoda,Branchiopoda,Cladocera,,,"Latreille, 1829",cladocera
+Clausidiidae,urn:lsid:marinespecies.org:taxname:128567,Family,Animalia,Arthropoda,Copepoda,Cyclopoida,Clausidiidae,,"Embleton, 1901",clausidiidae
+Clausocalanus,urn:lsid:marinespecies.org:taxname:104161,Genus,Animalia,Arthropoda,Copepoda,Calanoida,Clausocalanidae,Clausocalanus,"Giesbrecht, 1888",clausocalanus
+Clytia gregaria,urn:lsid:marinespecies.org:taxname:284361,Species,Animalia,Cnidaria,Hydrozoa,Leptothecata,Campanulariidae,Clytia,"(Agassiz, 1862)",clytia gregaria
+Copepoda,urn:lsid:marinespecies.org:taxname:1080,Class,Animalia,Arthropoda,Copepoda,,,,"Milne Edwards, 1840",copepoda
+Corophium,urn:lsid:marinespecies.org:taxname:101489,Genus,Animalia,Arthropoda,Malacostraca,Amphipoda,Corophiidae,Corophium,"Latreille, 1806",corophium
+Cryptolithodes,urn:lsid:marinespecies.org:taxname:550614,Genus,Animalia,Arthropoda,Malacostraca,Decapoda,Lithodidae,Cryptolithodes,"Brandt, 1848",cryptolithodes
+Ctenocalanus vanus,urn:lsid:marinespecies.org:taxname:104510,Species,Animalia,Arthropoda,Copepoda,Calanoida,Clausocalanidae,Ctenocalanus,"Giesbrecht, 1888",ctenocalanus vanus
+Ctenophora,urn:lsid:marinespecies.org:taxname:1248,Phylum,Animalia,Ctenophora,,,,,"Eschscholtz, 1829",ctenophora
+Cyclopoida,urn:lsid:marinespecies.org:taxname:1101,Order,Animalia,Arthropoda,Copepoda,Cyclopoida,,,"Burmeister, 1834",cyclopoida
+Dimophyes,urn:lsid:marinespecies.org:taxname:135361,Genus,Animalia,Cnidaria,Hydrozoa,Siphonophorae,Diphyidae,Dimophyes,"Moser, 1925",dimophyes
+Diogenidae,urn:lsid:marinespecies.org:taxname:106736,Family,Animalia,Arthropoda,Malacostraca,Decapoda,Diogenidae,,"Ortmann, 1892",diogenidae
+Ditrichocorycaeus anglicus,urn:lsid:marinespecies.org:taxname:128805,Species,Animalia,Arthropoda,Copepoda,Cyclopoida,Corycaeidae,Ditrichocorycaeus,"(Lubbock, 1857)",ditrichocorycaeus anglicus
+Echinodermata,urn:lsid:marinespecies.org:taxname:1806,Phylum,Animalia,Echinodermata,,,,,"Klein, 1778",echinodermata
+Emerita analoga,urn:lsid:marinespecies.org:taxname:467695,Species,Animalia,Arthropoda,Malacostraca,Decapoda,Hippidae,Emerita,"(Stimpson, 1857)",emerita analoga
+Epilabidocera longipedata,urn:lsid:marinespecies.org:taxname:346398,Species,Animalia,Arthropoda,Copepoda,Calanoida,Pontellidae,Epilabidocera,"(Sato, 1913)",epilabidocera longipedata
+Eucalanus,urn:lsid:marinespecies.org:taxname:104171,Genus,Animalia,Arthropoda,Copepoda,Calanoida,Eucalanidae,Eucalanus,"Dana, 1852-1853",eucalanus
+Eucalanus bungii,urn:lsid:marinespecies.org:taxname:196775,Species,Animalia,Arthropoda,Copepoda,Calanoida,Eucalanidae,Eucalanus,"Giesbrecht, 1893",eucalanus bungii
+Eucalanus californicus,urn:lsid:marinespecies.org:taxname:346434,Species,Animalia,Arthropoda,Copepoda,Calanoida,Eucalanidae,Eucalanus,"Johnson M.W., 1938",eucalanus californicus
+Eucalanus hyalinus,urn:lsid:marinespecies.org:taxname:345781,Species,Animalia,Arthropoda,Copepoda,Calanoida,Eucalanidae,Eucalanus,"(Claus, 1866)",eucalanus hyalinus
+Euchaeta elongata,urn:lsid:marinespecies.org:taxname:351674,Species,Animalia,Arthropoda,Copepoda,Calanoida,Euchaetidae,Euchaeta,"Esterly, 1913",euchaeta elongata
+Euchaetidae,urn:lsid:marinespecies.org:taxname:104086,Family,Animalia,Arthropoda,Copepoda,Calanoida,Euchaetidae,,"Giesbrecht, 1893",euchaetidae
+Euchirella,urn:lsid:marinespecies.org:taxname:104120,Genus,Animalia,Arthropoda,Copepoda,Calanoida,Aetideidae,Euchirella,"Giesbrecht, 1888",euchirella
+Euchirella pseudopulchra,urn:lsid:marinespecies.org:taxname:196792,Species,Animalia,Arthropoda,Copepoda,Calanoida,Aetideidae,Euchirella,"Park, 1976",euchirella pseudopulchra
+Euchirella pulchra,urn:lsid:marinespecies.org:taxname:104302,Species,Animalia,Arthropoda,Copepoda,Calanoida,Aetideidae,Euchirella,"(Lubbock, 1856)",euchirella pulchra
+Euphausia pacifica,urn:lsid:marinespecies.org:taxname:237851,Species,Animalia,Arthropoda,Malacostraca,Euphausiacea,Euphausiidae,Euphausia,"Hansen, 1911",euphausia pacifica
+Euphausiidae,urn:lsid:marinespecies.org:taxname:110671,Family,Animalia,Arthropoda,Malacostraca,Euphausiacea,Euphausiidae,,"Dana, 1850",euphausiidae
+Euphysa,urn:lsid:marinespecies.org:taxname:117095,Genus,Animalia,Cnidaria,Hydrozoa,Anthoathecata,Corymorphidae,Euphysa,"Forbes, 1848",euphysa
+Eurytemora,urn:lsid:marinespecies.org:taxname:104240,Genus,Animalia,Arthropoda,Copepoda,Calanoida,Temoridae,Eurytemora,"Giesbrecht, 1881",eurytemora
+Eutonina indicans,urn:lsid:marinespecies.org:taxname:117517,Species,Animalia,Cnidaria,Hydrozoa,Leptothecata,Eirenidae,Eutonina,"(Romanes, 1876)",eutonina indicans
+Fabia subquadrata,urn:lsid:marinespecies.org:taxname:445132,Species,Animalia,Arthropoda,Malacostraca,Decapoda,Pinnotheridae,Fabia,"Dana, 1851",fabia subquadrata
+Facetotecta,urn:lsid:marinespecies.org:taxname:150305,Subclass,Animalia,Arthropoda,Thecostraca,,,,"Grygier, 1985",facetotecta
+Farranula,urn:lsid:marinespecies.org:taxname:128636,Genus,Animalia,Arthropoda,Copepoda,Cyclopoida,Corycaeidae,Farranula,"Wilson C.B., 1932",farranula
+Gaetanus,urn:lsid:marinespecies.org:taxname:104121,Genus,Animalia,Arthropoda,Copepoda,Calanoida,Aetideidae,Gaetanus,"Giesbrecht, 1888",gaetanus
+Gaetanus miles,urn:lsid:marinespecies.org:taxname:104311,Species,Animalia,Arthropoda,Copepoda,Calanoida,Aetideidae,Gaetanus,"Giesbrecht, 1888",gaetanus miles
+Gaetanus minutus,urn:lsid:marinespecies.org:taxname:346489,Species,Animalia,Arthropoda,Copepoda,Calanoida,Aetideidae,Gaetanus,"(Sars G.O., 1907)",gaetanus minutus
+Gaetanus pungens,urn:lsid:marinespecies.org:taxname:342623,Species,Animalia,Arthropoda,Copepoda,Calanoida,Aetideidae,Gaetanus,"(Giesbrecht, 1895)",gaetanus pungens
+Gaetanus simplex,urn:lsid:marinespecies.org:taxname:346494,Species,Animalia,Arthropoda,Copepoda,Calanoida,Aetideidae,Gaetanus,"Brodsky, 1950",gaetanus simplex
+Gaidius pungens,urn:lsid:marinespecies.org:taxname:104319,Species,Animalia,Arthropoda,Copepoda,Calanoida,Aetideidae,Gaidius,"Giesbrecht, 1895",gaidius pungens
+Gaidius tenuispinus,urn:lsid:marinespecies.org:taxname:104321,Species,Animalia,Arthropoda,Copepoda,Calanoida,Aetideidae,Gaidius,"(Sars G.O., 1900)",gaidius tenuispinus
+Galatheidae,urn:lsid:marinespecies.org:taxname:106733,Family,Animalia,Arthropoda,Malacostraca,Decapoda,Galatheidae,,"Samouelle, 1819",galatheidae
+Gammaridea,urn:lsid:marinespecies.org:taxname:1207,Suborder,Animalia,Arthropoda,Malacostraca,Amphipoda,,,"Latreille, 1802",gammaridea
+Gastropoda,urn:lsid:marinespecies.org:taxname:101,Class,Animalia,Mollusca,Gastropoda,,,,"Cuvier, 1795",gastropoda
+Geomackiea zephyrolata,urn:lsid:marinespecies.org:taxname:289988,Species,Animalia,Cnidaria,Hydrozoa,Anthoathecata,Pandeidae,Geomackiea,"Mills, 1985",geomackiea zephyrolata
+Glebocarcinus oregonensis,urn:lsid:marinespecies.org:taxname:440384,Species,Animalia,Arthropoda,Malacostraca,Decapoda,Cancridae,Glebocarcinus,"(Dana, 1852)",glebocarcinus oregonensis
+Halitholus,urn:lsid:marinespecies.org:taxname:117182,Genus,Animalia,Cnidaria,Hydrozoa,Anthoathecata,Pandeidae,Halitholus,"Hartlaub, 1914",halitholus
+Harpacticoida,urn:lsid:marinespecies.org:taxname:1102,Order,Animalia,Arthropoda,Copepoda,Harpacticoida,,,"Sars G.O., 1903",harpacticoida
+Hemicyclops,urn:lsid:marinespecies.org:taxname:394447,Genus,Animalia,Arthropoda,Copepoda,Cyclopoida,Clausidiidae,Hemicyclops,"Boeck, 1872",hemicyclops
+Hemigrapsus,urn:lsid:marinespecies.org:taxname:106964,Genus,Animalia,Arthropoda,Malacostraca,Decapoda,Varunidae,Hemigrapsus,"Dana, 1851",hemigrapsus
+Heterorhabdus,urn:lsid:marinespecies.org:taxname:104178,Genus,Animalia,Arthropoda,Copepoda,Calanoida,Heterorhabdidae,Heterorhabdus,"Giesbrecht, 1898",heterorhabdus
+Heterorhabdus tanneri,urn:lsid:marinespecies.org:taxname:196782,Species,Animalia,Arthropoda,Copepoda,Calanoida,Heterorhabdidae,Heterorhabdus,"(Giesbrecht, 1895)",heterorhabdus tanneri
+Holothuroidea,urn:lsid:marinespecies.org:taxname:123083,Class,Animalia,Echinodermata,Holothuroidea,,,,"de Blainville, 1834",holothuroidea
+Hybocodon,urn:lsid:marinespecies.org:taxname:117256,Genus,Animalia,Cnidaria,Hydrozoa,Anthoathecata,Tubulariidae,Hybocodon,"L. Agassiz, 1860",hybocodon
+Hydrobia,urn:lsid:marinespecies.org:taxname:138081,Genus,Animalia,Mollusca,Gastropoda,Littorinimorpha,Hydrobiidae,Hydrobia,"W. Hartmann, 1821",hydroid
+Hydrozoa,urn:lsid:marinespecies.org:taxname:1337,Class,Animalia,Cnidaria,Hydrozoa,,,,"Owen, 1843",hydrozoa
+Hyperiidea,urn:lsid:marinespecies.org:taxname:1205,Suborder,Animalia,Arthropoda,Malacostraca,Amphipoda,,,"H. Milne Edwards, 1830",hyperiidea
+Isopoda,urn:lsid:marinespecies.org:taxname:1131,Order,Animalia,Arthropoda,Malacostraca,Isopoda,,,"Latreille, 1816",isopoda
+Labidocera,urn:lsid:marinespecies.org:taxname:104208,Genus,Animalia,Arthropoda,Copepoda,Calanoida,Pontellidae,Labidocera,"Lubbock, 1853",labidocera
+Lensia,urn:lsid:marinespecies.org:taxname:135365,Genus,Animalia,Cnidaria,Hydrozoa,Siphonophorae,Diphyidae,Lensia,"Totton, 1932",lensia
+Leptothecata,urn:lsid:marinespecies.org:taxname:13552,Order,Animalia,Cnidaria,Hydrozoa,Leptothecata,,,"Cornelius, 1992",leptothecata
+Leuckartiara,urn:lsid:marinespecies.org:taxname:117183,Genus,Animalia,Cnidaria,Hydrozoa,Anthoathecata,Pandeidae,Leuckartiara,"Hartlaub, 1914",leuckartiara
+Limnomedusae,urn:lsid:marinespecies.org:taxname:1370,Order,Animalia,Cnidaria,Hydrozoa,Limnomedusae,,,"Kramp, 1938",limnomedusae
+Lithodidae,urn:lsid:marinespecies.org:taxname:106737,Family,Animalia,Arthropoda,Malacostraca,Decapoda,Lithodidae,,"Samouelle, 1819",lithodidae
+Littorina,urn:lsid:marinespecies.org:taxname:138135,Genus,Animalia,Mollusca,Gastropoda,Littorinimorpha,Littorinidae,Littorina,"Férussac, 1822",littorina
+Longipedia,urn:lsid:marinespecies.org:taxname:115403,Genus,Animalia,Arthropoda,Copepoda,Canuelloida,Longipediidae,Longipedia,"Claus, 1862",longipedia
+Lopholithodes,urn:lsid:marinespecies.org:taxname:378124,Genus,Animalia,Arthropoda,Malacostraca,Decapoda,Lithodidae,Lopholithodes,"Brandt, 1848",lopholithodes
+Lophopanopeus bellus,urn:lsid:marinespecies.org:taxname:443976,Species,Animalia,Arthropoda,Malacostraca,Decapoda,Panopeidae,Lophopanopeus,"(Stimpson, 1860)",lophopanopeus bellus
+Majoidea,urn:lsid:marinespecies.org:taxname:106700,Superfamily,Animalia,Arthropoda,Malacostraca,Decapoda,,,"Samouelle, 1819",majoidea
+Melicertum octocostatum,urn:lsid:marinespecies.org:taxname:117743,Species,Animalia,Cnidaria,Hydrozoa,Leptothecata,Melicertidae,Melicertum,"(M. Sars, 1835)",melicertum octocostatum
+Mesocalanus tenuicornis,urn:lsid:marinespecies.org:taxname:104468,Species,Animalia,Arthropoda,Copepoda,Calanoida,Calanidae,Mesocalanus,"(Dana, 1849)",mesocalanus tenuicornis
+Metacarcinus gracilis,urn:lsid:marinespecies.org:taxname:440387,Species,Animalia,Arthropoda,Malacostraca,Decapoda,Cancridae,Metacarcinus,"(Dana, 1852)",metacarcinus gracilis
+Metacarcinus magister,urn:lsid:marinespecies.org:taxname:440388,Species,Animalia,Arthropoda,Malacostraca,Decapoda,Cancridae,Metacarcinus,"(Dana, 1852)",metacarcinus magister
+Meterythrops robustus,urn:lsid:marinespecies.org:taxname:446462,Species,Animalia,Arthropoda,Malacostraca,Mysida,Mysidae,Meterythrops,"Smith, 1879",meterythrops robustus
+Metridia pacifica,urn:lsid:marinespecies.org:taxname:196784,Species,Animalia,Arthropoda,Copepoda,Calanoida,Metridinidae,Metridia,"Brodsky, 1950",metridia pacifica
+Metridiidae,urn:lsid:marinespecies.org:taxname:100678,Family,Animalia,Cnidaria,Anthozoa,Actiniaria,Metridiidae,,"Carlgren, 1893",metridiidae
+Microcalanus,urn:lsid:marinespecies.org:taxname:104164,Genus,Animalia,Arthropoda,Copepoda,Calanoida,Clausocalanidae,Microcalanus,"Sars G.O., 1903",microcalanus
+Mitrocoma cellularia,urn:lsid:marinespecies.org:taxname:292350,Species,Animalia,Cnidaria,Hydrozoa,Leptothecata,Mitrocomidae,Mitrocoma,"(Agassiz, 1862)",mitrocoma cellularia
+Mitrocomella,urn:lsid:marinespecies.org:taxname:117162,Genus,Animalia,Cnidaria,Hydrozoa,Leptothecata,Mitrocomidae,Mitrocomella,"Haeckel, 1879",mitrocomella
+Mollusca,urn:lsid:marinespecies.org:taxname:51,Phylum,Animalia,Mollusca,,,,,,mollusca
+Monothula subtilis,urn:lsid:marinespecies.org:taxname:237984,Species,Animalia,Arthropoda,Copepoda,Cyclopoida,Oncaeidae,Monothula,"(Giesbrecht, 1893)",monothula subtilis
+Monstrilloida,urn:lsid:marinespecies.org:taxname:1106,Order,Animalia,Arthropoda,Copepoda,Monstrilloida,,,"Sars G.O., 1901",monstrilloida
+Muggiaea atlantica,urn:lsid:marinespecies.org:taxname:135441,Species,Animalia,Cnidaria,Hydrozoa,Siphonophorae,Diphyidae,Muggiaea,"Cunningham, 1892",muggiaea atlantica
+Munida quadrispina,urn:lsid:marinespecies.org:taxname:392422,Species,Animalia,Arthropoda,Malacostraca,Decapoda,Munididae,Munida,"Benedict, 1902",munida quadrispina
+Mysidacea,urn:lsid:marinespecies.org:taxname:2824,Order,Animalia,Arthropoda,Malacostraca,Mysidacea,,,"Haworth, 1825",mysidacea
+Nanomia bijuga,urn:lsid:marinespecies.org:taxname:135495,Species,Animalia,Cnidaria,Hydrozoa,Siphonophorae,Agalmatidae,Nanomia,"(Delle Chiaje, 1844)",nanomia bijuga
+Narcomedusae,urn:lsid:marinespecies.org:taxname:16349,Order,Animalia,Cnidaria,Hydrozoa,Narcomedusae,,,"Haeckel, 1879",narcomedusae
+Nematoscelis difficilis,urn:lsid:marinespecies.org:taxname:237861,Species,Animalia,Arthropoda,Malacostraca,Euphausiacea,Euphausiidae,Nematoscelis,"Hansen, 1911",nematoscelis difficilis
+Nemertea,urn:lsid:marinespecies.org:taxname:152391,Phylum,Animalia,Nemertea,,,,,,nemertea
+Neocalanus cristatus,urn:lsid:marinespecies.org:taxname:104470,Species,Animalia,Arthropoda,Copepoda,Calanoida,Calanidae,Neocalanus,"(Krøyer, 1848)",neocalanus cristatus
+Neocalanus plumchrus,urn:lsid:marinespecies.org:taxname:196772,Species,Animalia,Arthropoda,Copepoda,Calanoida,Calanidae,Neocalanus,"(Marukawa, 1921)",neocalanus plumchrus
+Neomysis,urn:lsid:marinespecies.org:taxname:119888,Genus,Animalia,Arthropoda,Malacostraca,Mysida,Mysidae,Neomysis,"Czerniavsky, 1882",neomysis
+Nudibranchia,urn:lsid:marinespecies.org:taxname:1762,Order,Animalia,Mollusca,Gastropoda,Nudibranchia,,,"Cuvier, 1817",nudibranchia
+Obelia,urn:lsid:marinespecies.org:taxname:117034,Genus,Animalia,Cnidaria,Hydrozoa,Leptothecata,Campanulariidae,Obelia,"Péron & Lesueur, 1810",obelia
+Octopoda,urn:lsid:marinespecies.org:taxname:11718,Order,Animalia,Mollusca,Cephalopoda,Octopoda,,,"Leach, 1818",octopoda
+Oithona atlantica,urn:lsid:marinespecies.org:taxname:106642,Species,Animalia,Arthropoda,Copepoda,Cyclopoida,Oithonidae,Oithona,"Farran, 1908",oithona atlantica
+Oithona similis,urn:lsid:marinespecies.org:taxname:106656,Species,Animalia,Arthropoda,Copepoda,Cyclopoida,Oithonidae,Oithona,"Claus, 1866",oithona similis
+Oncaea prolata,urn:lsid:marinespecies.org:taxname:344725,Species,Animalia,Arthropoda,Copepoda,Cyclopoida,Oncaeidae,Oncaea,"Heron, 1977",oncaea prolata
+Oncaeidae,urn:lsid:marinespecies.org:taxname:128586,Family,Animalia,Arthropoda,Copepoda,Cyclopoida,Oncaeidae,,"Giesbrecht, 1893",oncaeidae
+Ophiuroidea,urn:lsid:marinespecies.org:taxname:123084,Class,Animalia,Echinodermata,Ophiuroidea,,,,"Gray, 1840",ophiuroidea
+Oregonia gracilis,urn:lsid:marinespecies.org:taxname:442171,Species,Animalia,Arthropoda,Malacostraca,Decapoda,Oregoniidae,Oregonia,"Dana, 1851",oregonia gracilis
+Orthopagurus schmitti,urn:lsid:marinespecies.org:taxname:592893,Species,Animalia,Arthropoda,Malacostraca,Decapoda,Paguridae,Orthopagurus,"(Stevens, 1925)",orthopagurus schmitti
+Owenia,urn:lsid:marinespecies.org:taxname:129427,Genus,Animalia,Annelida,Polychaeta,,Oweniidae,Owenia,"Delle Chiaje, 1844",owenia
+Oweniidae,urn:lsid:marinespecies.org:taxname:975,Family,Animalia,Annelida,Polychaeta,,Oweniidae,,"Rioja, 1917",oweniidae
+Pachycheles,urn:lsid:marinespecies.org:taxname:205958,Genus,Animalia,Arthropoda,Malacostraca,Decapoda,Porcellanidae,Pachycheles,"Stimpson, 1858",pachycheles
+Pacifacanthomysis nephrophthalma,urn:lsid:marinespecies.org:taxname:226746,Species,Animalia,Arthropoda,Malacostraca,Mysida,Mysidae,Pacifacanthomysis,"(Banner, 1948)",pacifacanthomysis nephrophthalma
+Paguridae,urn:lsid:marinespecies.org:taxname:106738,Family,Animalia,Arthropoda,Malacostraca,Decapoda,Paguridae,,"Latreille, 1802",paguridae
+Pagurus,urn:lsid:marinespecies.org:taxname:106854,Genus,Animalia,Arthropoda,Malacostraca,Decapoda,Paguridae,Pagurus,"Fabricius, 1775",pagurus
+Pandeidae,urn:lsid:marinespecies.org:taxname:15029,Family,Animalia,Cnidaria,Hydrozoa,Anthoathecata,Pandeidae,,"Haeckel, 1879",pandeidae
+Paracalanus,urn:lsid:marinespecies.org:taxname:104196,Genus,Animalia,Arthropoda,Copepoda,Calanoida,Paracalanidae,Paracalanus,"Boeck, 1865",paracalanus
+Paraeuchaeta elongata,urn:lsid:marinespecies.org:taxname:196779,Species,Animalia,Arthropoda,Copepoda,Calanoida,Euchaetidae,Paraeuchaeta,"(Esterly, 1913)",paraeuchaeta elongata
+Pasiphaea pacifica,urn:lsid:marinespecies.org:taxname:514245,Species,Animalia,Arthropoda,Malacostraca,Decapoda,Pasiphaeidae,Pasiphaea,"Rathbun, 1902",pasiphaea pacifica
+Peachia,urn:lsid:marinespecies.org:taxname:100749,Genus,Animalia,Cnidaria,Anthozoa,Actiniaria,Peachiidae,Peachia,"Gosse, 1855",peachia
+Petrolisthes,urn:lsid:marinespecies.org:taxname:206848,Genus,Animalia,Arthropoda,Malacostraca,Decapoda,Porcellanidae,Petrolisthes,"Stimpson, 1858",petrolisthes
+Phacellophora camtschatica,urn:lsid:marinespecies.org:taxname:135309,Species,Animalia,Cnidaria,Scyphozoa,Semaeostomeae,Phacellophoridae,Phacellophora,"Brandt, 1835",phacellophora camtschatica
+Phoronida,urn:lsid:marinespecies.org:taxname:1789,Phylum,Animalia,Phoronida,,,,,"Hatschek, 1888",phoronida
+Physonectae,urn:lsid:marinespecies.org:taxname:135335,Suborder,Animalia,Cnidaria,Hydrozoa,Siphonophorae,,,"Haeckel, 1888",physonectae
+Pinnixa,urn:lsid:marinespecies.org:taxname:158444,Genus,Animalia,Arthropoda,Malacostraca,Decapoda,Pinnotheridae,Pinnixa,"White, 1846",pinnixa
+Pinnotheres,urn:lsid:marinespecies.org:taxname:106976,Genus,Animalia,Arthropoda,Malacostraca,Decapoda,Pinnotheridae,Pinnotheres,"Bosc, 1801",pinnotheres
+Pinnotheridae,urn:lsid:marinespecies.org:taxname:106775,Family,Animalia,Arthropoda,Malacostraca,Decapoda,Pinnotheridae,,"De Haan, 1833",pinnotheridae
+Pleocyemata,urn:lsid:marinespecies.org:taxname:106670,Suborder,Animalia,Arthropoda,Malacostraca,Decapoda,,,"Burkenroad, 1963",pleocyemata
+Pleurobrachia bachei,urn:lsid:marinespecies.org:taxname:265191,Species,Animalia,Ctenophora,Tentaculata,Cydippida,Cydippidae,Pleurobrachia,"A. Agassiz, in L. Agassiz, 1860",pleurobrachia bachei
+Pleuromamma,urn:lsid:marinespecies.org:taxname:104191,Genus,Animalia,Arthropoda,Copepoda,Calanoida,Metridinidae,Pleuromamma,"Giesbrecht in Giesbrecht & Schmeil, 1898",pleuromamma
+Pleuromamma abdominalis,urn:lsid:marinespecies.org:taxname:104637,Species,Animalia,Arthropoda,Copepoda,Calanoida,Metridinidae,Pleuromamma,"(Lubbock, 1856)",pleuromamma abdominalis
+Pleuromamma quadrungulata,urn:lsid:marinespecies.org:taxname:104641,Species,Animalia,Arthropoda,Copepoda,Calanoida,Metridinidae,Pleuromamma,"(Dahl F., 1893)",pleuromamma quadrungulata
+Poecilostomatoida,urn:lsid:marinespecies.org:taxname:1103,Suborder,Animalia,Arthropoda,Copepoda,Cyclopoida,,,"Thorell, 1859",poecilostomatoida
+Polychaeta,urn:lsid:marinespecies.org:taxname:883,Class,Animalia,Annelida,Polychaeta,,,,"Grube, 1850",polychaeta
+Porcellanidae,urn:lsid:marinespecies.org:taxname:106734,Family,Animalia,Arthropoda,Malacostraca,Decapoda,Porcellanidae,,"Haworth, 1825",porcellanidae
+Proboscidactyla flavicirrata,urn:lsid:marinespecies.org:taxname:117834,Species,Animalia,Cnidaria,Hydrozoa,Anthoathecata,Proboscidactylidae,Proboscidactyla,"Brandt, 1835",proboscidactyla flavicirrata
+Pseudocalanus,urn:lsid:marinespecies.org:taxname:104165,Genus,Animalia,Arthropoda,Copepoda,Calanoida,Clausocalanidae,Pseudocalanus,"Boeck, 1872",pseudocalanus
+Pseudocalanus mimus,urn:lsid:marinespecies.org:taxname:355067,Species,Animalia,Arthropoda,Copepoda,Calanoida,Clausocalanidae,Pseudocalanus,"Frost, 1989",pseudocalanus mimus
+Pseudocalanus minutus,urn:lsid:marinespecies.org:taxname:104517,Species,Animalia,Arthropoda,Copepoda,Calanoida,Clausocalanidae,Pseudocalanus,"(Krøyer, 1845)",pseudocalanus minutus
+Pseudocalanus moultoni,urn:lsid:marinespecies.org:taxname:157678,Species,Animalia,Arthropoda,Copepoda,Calanoida,Clausocalanidae,Pseudocalanus,"Frost, 1989",pseudocalanus moultoni
+Pseudocalanus newmani,urn:lsid:marinespecies.org:taxname:157679,Species,Animalia,Arthropoda,Copepoda,Calanoida,Clausocalanidae,Pseudocalanus,"Frost, 1989",pseudocalanus newmani
+Pseudomma,urn:lsid:marinespecies.org:taxname:119900,Genus,Animalia,Arthropoda,Malacostraca,Mysida,Mysidae,Pseudomma,"G.O. Sars, 1870",pseudomma
+Ptychogena lactea,urn:lsid:marinespecies.org:taxname:117728,Species,Animalia,Cnidaria,Hydrozoa,Leptothecata,Laodiceidae,Ptychogena,"Agassiz, 1865",ptychogena lactea
+Pugettia,urn:lsid:marinespecies.org:taxname:240779,Genus,Animalia,Arthropoda,Malacostraca,Decapoda,Epialtidae,Pugettia,"Dana, 1851",pugettia
+Racovitzanus antarcticus,urn:lsid:marinespecies.org:taxname:104784,Species,Animalia,Arthropoda,Copepoda,Calanoida,Scolecitrichidae,Racovitzanus,"Giesbrecht, 1902",racovitzanus antarcticus
+Rathkea,urn:lsid:marinespecies.org:taxname:117211,Genus,Animalia,Cnidaria,Hydrozoa,Anthoathecata,Rathkeidae,Rathkea,"Brandt, 1837",rathkea
+Rhinolithodes,urn:lsid:marinespecies.org:taxname:550609,Genus,Animalia,Arthropoda,Malacostraca,Decapoda,Lithodidae,Rhinolithodes,"Brandt, 1848",rhinolithodes
+Sarsia,urn:lsid:marinespecies.org:taxname:117070,Genus,Animalia,Cnidaria,Hydrozoa,Anthoathecata,Corynidae,Sarsia,"Lesson, 1843",sarsia
+Scaphocalanus brevicornis,urn:lsid:marinespecies.org:taxname:104790,Species,Animalia,Arthropoda,Copepoda,Calanoida,Scolecitrichidae,Scaphocalanus,"(Sars G.O., 1900)",scaphocalanus brevicornis
+Scaphocalanus echinatus,urn:lsid:marinespecies.org:taxname:104793,Species,Animalia,Arthropoda,Copepoda,Calanoida,Scolecitrichidae,Scaphocalanus,"(Farran, 1905)",scaphocalanus echinatus
+Scolecithricella,urn:lsid:marinespecies.org:taxname:104229,Genus,Animalia,Arthropoda,Copepoda,Calanoida,Scolecitrichidae,Scolecithricella,"Sars G.O., 1902",scolecithricella
+Scolecithricella dentata,urn:lsid:marinespecies.org:taxname:104807,Species,Animalia,Arthropoda,Copepoda,Calanoida,Scolecitrichidae,Scolecithricella,"(Giesbrecht, 1893)",scolecithricella dentata
+Scolecithricella minor,urn:lsid:marinespecies.org:taxname:104811,Species,Animalia,Arthropoda,Copepoda,Calanoida,Scolecitrichidae,Scolecithricella,"(Brady, 1883)",scolecithricella minor
+Scolecithricella ovata,urn:lsid:marinespecies.org:taxname:104814,Species,Animalia,Arthropoda,Copepoda,Calanoida,Scolecitrichidae,Scolecithricella,"(Farran, 1905)",scolecithricella ovata
+Scolecitrichidae,urn:lsid:marinespecies.org:taxname:104103,Family,Animalia,Arthropoda,Copepoda,Calanoida,Scolecitrichidae,,"Giesbrecht, 1893",scolecitrichidae
+Scyphozoa,urn:lsid:marinespecies.org:taxname:135220,Class,Animalia,Cnidaria,Scyphozoa,,,,"Goette, 1887",scyphozoa
+Siphonophora,urn:lsid:marinespecies.org:taxname:254409,Order,Animalia,Cnidaria,Hydrozoa,Siphonophora,,,"Eschscholtz, 1829",siphonophora
+Siphonostomatoida,urn:lsid:marinespecies.org:taxname:1104,Order,Animalia,Arthropoda,Copepoda,Siphonostomatoida,,,"Burmeister, 1835",siphonostomatoida
+Solmissus,urn:lsid:marinespecies.org:taxname:117074,Genus,Animalia,Cnidaria,Hydrozoa,Narcomedusae,Cuninidae,Solmissus,"Haeckel, 1879",solmissus
+Spinocalanus brevicaudatus,urn:lsid:marinespecies.org:taxname:104848,Species,Animalia,Arthropoda,Copepoda,Calanoida,Spinocalanidae,Spinocalanus,"Brodsky, 1950",spinocalanus brevicaudatus
+Stomotoca atra,urn:lsid:marinespecies.org:taxname:221202,Species,Animalia,Cnidaria,Hydrozoa,Anthoathecata,Pandeidae,Stomotoca,"L. Agassiz, 1862",stomotoca atra
+Syllidae,urn:lsid:marinespecies.org:taxname:948,Family,Animalia,Annelida,Polychaeta,Phyllodocida,Syllidae,,"Grube, 1850",syllidae
+Syngnathidae,urn:lsid:marinespecies.org:taxname:125606,Family,Animalia,Chordata,Teleostei,Syngnathiformes,Syngnathidae,,"Bonaparte, 1831",syngnathidae
+Tegastes,urn:lsid:marinespecies.org:taxname:115447,Genus,Animalia,Arthropoda,Copepoda,Harpacticoida,Tegastidae,Tegastes,"Norman, 1903",tegastes
+Teleostei,urn:lsid:marinespecies.org:taxname:293496,Class,Animalia,Chordata,Teleostei,,,,,teleostei
+Telmessus cheiragonus,urn:lsid:marinespecies.org:taxname:254360,Species,Animalia,Arthropoda,Malacostraca,Decapoda,Cheiragonidae,Telmessus,"(Tilesius, 1815)",telmessus cheiragonus
+Teuthida,urn:lsid:marinespecies.org:taxname:11716,Order,Animalia,Mollusca,Cephalopoda,Teuthida,,,"Naef, 1916",teuthida
+Tharybis fultoni,urn:lsid:marinespecies.org:taxname:356103,Species,Animalia,Arthropoda,Copepoda,Calanoida,Tharybidae,Tharybis,"Park, 1967",tharybis fultoni
+Themisto pacifica,urn:lsid:marinespecies.org:taxname:254453,Species,Animalia,Arthropoda,Malacostraca,Amphipoda,Hyperiidae,Themisto,"(Stebbing, 1888)",themisto pacifica
+Thysanoessa,urn:lsid:marinespecies.org:taxname:110679,Genus,Animalia,Arthropoda,Malacostraca,Euphausiacea,Euphausiidae,Thysanoessa,"Brandt, 1851",thysanoessa
+Thysanoessa inspinata,urn:lsid:marinespecies.org:taxname:237872,Species,Animalia,Arthropoda,Malacostraca,Euphausiacea,Euphausiidae,Thysanoessa,"Nemoto, 1963",thysanoessa inspinata
+Thysanoessa longipes,urn:lsid:marinespecies.org:taxname:237873,Species,Animalia,Arthropoda,Malacostraca,Euphausiacea,Euphausiidae,Thysanoessa,"(Brandt, 1851)",thysanoessa longipes
+Thysanoessa raschii,urn:lsid:marinespecies.org:taxname:110711,Species,Animalia,Arthropoda,Malacostraca,Euphausiacea,Euphausiidae,Thysanoessa,"(M. Sars, 1863)",thysanoessa raschii
+Thysanoessa spinifera,urn:lsid:marinespecies.org:taxname:237874,Species,Animalia,Arthropoda,Malacostraca,Euphausiacea,Euphausiidae,Thysanoessa,"Holmes, 1900",thysanoessa spinifera
+Tiaropsis,urn:lsid:marinespecies.org:taxname:117252,Genus,Animalia,Cnidaria,Hydrozoa,Leptothecata,Tiaropsidae,Tiaropsis,"Agassiz, 1849",tiaropsis
+Tisbe,urn:lsid:marinespecies.org:taxname:115484,Genus,Animalia,Arthropoda,Copepoda,Harpacticoida,Tisbidae,Tisbe,"Lilljeborg, 1853",tisbe
+Tortanus,urn:lsid:marinespecies.org:taxname:157683,Genus,Animalia,Arthropoda,Copepoda,Calanoida,Tortanidae,Tortanus,"Giesbrecht in Giesbrecht & Schmeil, 1898",tortanus
+Tortanus discaudatus,urn:lsid:marinespecies.org:taxname:157684,Species,Animalia,Arthropoda,Copepoda,Calanoida,Tortanidae,Tortanus,"(Thompson I.C. & Scott A.) In Herdman, Thompson & Scott, 1897)",tortanus discaudatus
+Triconia,urn:lsid:marinespecies.org:taxname:128691,Genus,Animalia,Arthropoda,Copepoda,Cyclopoida,Oncaeidae,Triconia,"Böttger-Schnack, 1999",triconia
+Triconia borealis,urn:lsid:marinespecies.org:taxname:128956,Species,Animalia,Arthropoda,Copepoda,Cyclopoida,Oncaeidae,Triconia,"(Sars G.O., 1918)",triconia borealis
+Triconia canadensis,urn:lsid:marinespecies.org:taxname:385744,Species,Animalia,Arthropoda,Copepoda,Cyclopoida,Oncaeidae,Triconia,"(Heron & Frost, 2000)",triconia canadensis
+Triconia conifera,urn:lsid:marinespecies.org:taxname:128957,Species,Animalia,Arthropoda,Copepoda,Cyclopoida,Oncaeidae,Triconia,"(Giesbrecht, 1891)",triconia conifera
+Triconia minuta,urn:lsid:marinespecies.org:taxname:128960,Species,Animalia,Arthropoda,Copepoda,Cyclopoida,Oncaeidae,Triconia,"(Giesbrecht, 1893)",triconia minuta
+Triconia similis,urn:lsid:marinespecies.org:taxname:128961,Species,Animalia,Arthropoda,Copepoda,Cyclopoida,Oncaeidae,Triconia,"(Sars G.O., 1918)",triconia similis
+Turbellaria,urn:lsid:marinespecies.org:taxname:794,Class,Animalia,Platyhelminthes,Turbellaria,,,,"Ehrenberg, 1831",turbellaria
+Upogebiidae,urn:lsid:marinespecies.org:taxname:106803,Family,Animalia,Arthropoda,Malacostraca,Decapoda,Upogebiidae,,"Borradaile, 1903",upogebiidae
+Xantharus cryeri,urn:lsid:marinespecies.org:taxname:348310,Species,Animalia,Arthropoda,Copepoda,Calanoida,Scolecitrichidae,Xantharus,"Bradford-Grieve, 2005",xantharus cryeri
+Xanthoidea,urn:lsid:marinespecies.org:taxname:106703,Superfamily,Animalia,Arthropoda,Malacostraca,Decapoda,,,"MacLeay, 1838",xanthoidea
+Zaus,urn:lsid:marinespecies.org:taxname:115352,Genus,Animalia,Arthropoda,Copepoda,Harpacticoida,Harpacticidae,Zaus,"Goodsir, 1845",zaus

@@ -1,0 +1,24 @@
+name: nanoos_bio
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - ipykernel
+  - erddapy
+  - folium
+  - cartopy
+  - geopandas
+  - xarray
+  - scipy
+  - requests
+  # - xlrd
+  - openpyxl
+  # Bio packages
+  - pyobis
+  - python-dwca-reader
+  - pyworms
+  - pip
+  - pip:
+    - metapype
+    - pygbif    # https://github.com/gbif/pygbif
+    - pytaxize  # https://github.com/sckott/pytaxize
