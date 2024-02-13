@@ -4,7 +4,7 @@
 # # Data pre-processing. PSZMP
 # 
 # 
-# 2/9,6. 1/31, 2024
+# 2/12,9,6. 1/31, 2024
 
 from datetime import timedelta, timezone
 from pathlib import Path
@@ -14,18 +14,16 @@ import pandas as pd
 
 def read_and_parse_sourcedata(test_n_rows=None):
     """
-    Read, parse and pre-process source csv data.
+    Read, parse and pre-process source Excel data.
     """
 
     # ## Read the Excel file
-
     data_pth = Path(".")
     sourcexlsdata_pth = data_pth / "sourcedata" / "PSZMP_2014-2022_Species_Data_Keister_Lab.xlsx"
     
     read_kwargs = dict(
         sheet_name="PSZMP 2014-22 Density & Biomass",
         header=0, 
-        # usecols='A:K',
         dtype={'Sample Date':str, 'Sample Time':str},
         engine='openpyxl',
     )
@@ -36,11 +34,17 @@ def read_and_parse_sourcedata(test_n_rows=None):
     source_df = pd.read_excel(sourcexlsdata_pth, **read_kwargs)
 
     # ## Parse the date & time columns into a datetime type
+    # TODO: Check with Amanda & BethElLee about the UTC time offset used,
+    #  whether times are local "clock" times, fixed PST, or something else.
+    #  Currently hardwiring to UTC-7
     pdt = timezone(timedelta(hours=-7), "PDT")
     source_df["time"] = pd.to_datetime(
         source_df["Sample Date"].str.split(' ').str[0] + source_df["Sample Time"], 
         format="%Y-%m-%d%H:%M:%S"
     ).dt.tz_localize(pdt)
+
+    # ## Set Nan Day_Night to "U", unassigned
+    source_df.loc[source_df["Day_Night"].isnull(), "Day_Night"] = "U"
 
     # ## Homogenize station names, to use the same case
     station_corrections_updates = {
@@ -52,7 +56,12 @@ def read_and_parse_sourcedata(test_n_rows=None):
     }
     source_df["Station"].replace(station_corrections_updates, inplace=True)
 
+    # ## Fix a Sampling Group error identified by Amanda
+    sel = (source_df["Station"] == "SARAD") & (source_df["Sampling Group"] == "NIT")
+    source_df.loc[sel, "Sampling Group"] = "NOAA/STIL"
+
     # ## Create lowercase versions of taxa and life history stage columns
+    # This will make downstream processing much more convenient
     source_df["Genus species_lc"] = source_df["Genus species"].str.lower()
     source_df["Life History Stage_lc"] = source_df["Life History Stage"].str.lower()
 
@@ -60,6 +69,9 @@ def read_and_parse_sourcedata(test_n_rows=None):
     taxa_corrections_updates = {
         'barnacles': 'cirripedia',
         'cancrid- c. prod/ g. oreg': 'cancridae',
+        # For these two, pyworms failed to make a match. So, fix it here
+        'cancridae lg': 'cancridae',
+        'cancridae sm': 'cancridae',
         'crabs': 'pleocyemata',
         'chaet/euphaus egg': 'animalia',
         'fish': 'teleostei',
@@ -77,29 +89,10 @@ def read_and_parse_sourcedata(test_n_rows=None):
         'worm': 'annelida',
         'unknown': 'animalia',
     }
-    # taxa_corrections_updates = {
-    #     'BARNACLES': 'Cirripedia',
-    #     'CRABS': 'Pleocyemata',
-    #     'Chaet/Euphaus Egg': 'Animalia',
-    #     'FISH': 'Teleostei',
-    #     'Fish': 'Teleostei',
-    #     'Forage FISH': 'Teleostei',
-    #     'HYDROMEDUSA': 'HYDROZOA',
-    #     'LIMNOMEDUSA': 'Limnomedusae',
-    #     'MITES': 'Halacaroidea',
-    #     'NARCOMEDUSIDA': 'Narcomedusae',
-    #     'PSEUDOCALANUS Lg': 'PSEUDOCALANUS',
-    #     'PSEUDOCALANUS Sm': 'PSEUDOCALANUS',
-    #     'Physonect': 'Physonectae',
-    #     'SCOLECITHRICIDAE': 'Scolecitrichidae',
-    #     'SCYPHOMEDUSA': 'Scyphozoa',
-    #     'WORM': 'Annelida',
-    #     'UNKNOWN': 'Animalia',
-    #     'Unknown': 'Animalia',
-    # }
     source_df["Genus species_lc"].replace(taxa_corrections_updates, inplace=True)
 
     # ## Remove records where both "Genus species_lc" and "Life History Stage_lc" are "unknown"
+    # Per recommendation from Amanda & BethElLee
     source_df = source_df[
         (source_df["Genus species_lc"] != "unknown") & (source_df["Life History Stage_lc"] != "unknown")
         ]

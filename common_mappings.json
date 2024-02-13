@@ -4,17 +4,17 @@
     "datasetcode": "PSZMP",
     "datasetcode_descr": "Univ. Washington Pelagic Hypoxia Hood Canal, Zooplankton",
     "cruises": {
-        "201206": "CB975",
-        "201207": "CB979",
-        "201208": "CB982",
-        "201209": "CB986",
-        "201210": "CB988",
-        "201306": "CB1002",
-        "201307": "CB1003",
-        "201308": "CB1005",
-        "201309": "CB1007",
-        "201310": "CB1009"
-    },
+        "HCSEG/DOE": "HCSEG_DOE",
+        "KWT": "KWT",
+        "NOAA": "NOAA",
+        "KC": "KC",
+        "LUM": "LUM",
+        "NOAA/STIL": "NOAA_STIL",
+        "NIT": "NIT",
+        "P Stations": "PRISM",
+        "PGST/WDFW": "PGST_WDFW",
+        "TUL": "TUL"
+            },
     "stations": {
         "DB": "Dabob",
         "UN": "Union",
@@ -23,8 +23,8 @@
         "TW": "Twanoh"
     },
     "net_tow": {
-        "DS": "depth stratified",
-        "FWC": "full water column"
+        "Oblique": "depth stratified (oblique)",
+        "Vertical": "full water column"
     },
     "sex_dwciri_terms": {
         "female": "S10/current/S102",
