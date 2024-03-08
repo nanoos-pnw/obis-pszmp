@@ -1,4 +1,5 @@
 aligned_csvs/*.csv
+TEMPdocs/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
