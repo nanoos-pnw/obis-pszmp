@@ -4,9 +4,11 @@
 # # Data pre-processing. PSZMP
 # 
 # 
-# 3/1. 2/16,12,9,6. 1/31, 2024
+# 3/19,1. 2/16,12,9,6. 1/31, 2024
 
 from pathlib import Path
+import zipfile
+
 
 import pandas as pd
 
@@ -121,3 +123,16 @@ def read_and_parse_sourcedata(test_n_rows=None):
     )
 
     return source_df.copy()
+
+
+def create_csv_zip(csv_fpth):
+    """
+    Create zip file containing the csv file csv_fname.
+    """
+    with zipfile.ZipFile(f"{str(csv_fpth)}.zip", 'w') as zf:
+        zf.write(
+            csv_fpth, 
+            arcname=csv_fpth.name, 
+            compress_type=zipfile.ZIP_DEFLATED, 
+            compresslevel=9
+        )
