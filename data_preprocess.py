@@ -127,7 +127,7 @@ def read_and_parse_sourcedata(test_n_rows=None):
 
 def create_csv_zip(csv_fpth):
     """
-    Create zip file containing the csv file csv_fname.
+    Create zip file containing the csv file csv_fpth.
     """
     with zipfile.ZipFile(f"{str(csv_fpth)}.zip", 'w') as zf:
         zf.write(

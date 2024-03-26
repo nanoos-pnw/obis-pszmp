@@ -4,17 +4,17 @@
     "CRS": "EPSG:4326",
     "datasetcode": "PSZMP",
     "datasetcode_descr": "Puget Sound Zooplankton Monitoring Program",
-    "cruises": {
-        "HCSEG/DOE": "HCSEG_DOE",
-        "KWT": "KWT",
-        "NOAA": "NOAA",
-        "KC": "KC",
-        "LUM": "LUM",
-        "NOAA/STIL": "NOAA_STIL",
-        "NIT": "NIT",
-        "P Stations": "PRISM",
-        "PGST/WDFW": "PGST_WDFW",
-        "TUL": "TUL"
+    "sampling_groups": {
+        "HCSEG/DOE": ["HCSEG_DOE", "Hood Canal Salmon Enhancement Group & Washington Deptartment of Ecology"],
+        "KWT": ["KWT", "Kwiáht"],
+        "NOAA": ["NOAA", "NOAA Northwest Fisheries Science Center"],
+        "KC": ["KC", "King County"],
+        "LUM": ["LUM", "Lummi Nation"],
+        "NOAA/STIL": ["NOAA_STIL", "NOAA Northwest Fisheries Science Center & Stillaguamish Tribe"],
+        "NIT": ["NIT", "Nisqually Indian Tribe"],
+        "P Stations": ["WOAC_UW", "Washington Ocean Acidification Center - University of Washington"],
+        "PGST/WDFW": ["PGST_WDFW", "Port Gamble S’Klallam Tribe & Washington Department of Fish and Wildlife"],
+        "TUL": ["TUL", "Tulalip Tribe"]
     },
     "stations": {
         "DU": "Duckabush",
