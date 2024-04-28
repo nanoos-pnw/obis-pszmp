@@ -58,13 +58,7 @@ def read_and_parse_sourcedata(test_n_rows=None):
 
     # ## Set Nan Day_Night to "U", unassigned
     source_df.loc[source_df["Day_Night"].isnull(), "Day_Night"] = "U"
-
-    # ## Change negative "Max Tow Depth (m)" values to positive value
-    # Assume the negative sign is a mistake. The only negative value present
-    # (for the 2014-2022 dataset) is -10.0, for sample_code == '070819SKETV1038'
-    depth_col = "Max Tow Depth (m)"
-    source_df.loc[source_df[depth_col] < 0, depth_col] = -1 * source_df[depth_col][source_df[depth_col] < 0]
-
+    
     # ## Homogenize station names, to use the same case
     station_corrections_updates = {
         "Cow2D2": "COW2D2",
@@ -127,7 +121,7 @@ def read_and_parse_sourcedata(test_n_rows=None):
 
 def create_csv_zip(csv_fpth):
     """
-    Create zip file containing the csv file csv_fname.
+    Create zip file containing the csv file csv_fpth.
     """
     with zipfile.ZipFile(f"{str(csv_fpth)}.zip", 'w') as zf:
         zf.write(
