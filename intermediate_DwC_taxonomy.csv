@@ -2,7 +2,7 @@ scientificName,scientificNameID,taxonRank,kingdom,phylum,class,order,family,genu
 Acartia,urn:lsid:marinespecies.org:taxname:104108,Genus,Animalia,Arthropoda,Copepoda,Calanoida,Acartiidae,Acartia,"Dana, 1846",acartia
 Acartia hudsonica,urn:lsid:marinespecies.org:taxname:157664,Species,Animalia,Arthropoda,Copepoda,Calanoida,Acartiidae,Acartia,"Pinhey, 1926",acartia hudsonica
 Acartia longiremis,urn:lsid:marinespecies.org:taxname:104257,Species,Animalia,Arthropoda,Copepoda,Calanoida,Acartiidae,Acartia,"(Lilljeborg, 1853)",acartia longiremis
-Acartia tonsa,urn:lsid:marinespecies.org:taxname:104262,Species,Animalia,Arthropoda,Copepoda,Calanoida,Acartiidae,Acartia,"Dana, 1849",acartia tonsa
+Acartia tonsa,urn:lsid:marinespecies.org:taxname:104262,Species,Animalia,Arthropoda,Copepoda,Calanoida,Acartiidae,Acartia,"Dana, 1849-1852",acartia tonsa
 Aegina citrea,urn:lsid:marinespecies.org:taxname:117263,Species,Animalia,Cnidaria,Hydrozoa,Narcomedusae,Aeginidae,Aegina,"Eschscholtz, 1829",aegina citrea
 Aequorea victoria,urn:lsid:marinespecies.org:taxname:283998,Species,Animalia,Cnidaria,Hydrozoa,Leptothecata,Aequoreidae,Aequorea,"(Murbach & Shearer, 1902)",aequorea victoria
 Aetideidae,urn:lsid:marinespecies.org:taxname:104075,Family,Animalia,Arthropoda,Copepoda,Calanoida,Aetideidae,,"Giesbrecht, 1892-1893",aetideidae
@@ -105,7 +105,7 @@ Glebocarcinus oregonensis,urn:lsid:marinespecies.org:taxname:440384,Species,Anim
 Halacaroidea,urn:lsid:marinespecies.org:taxname:292685,Superfamily,Animalia,Arthropoda,Arachnida,Trombidiformes,,,"Cunliffe, 1954",halacaroidea
 Halitholus,urn:lsid:marinespecies.org:taxname:117182,Genus,Animalia,Cnidaria,Hydrozoa,Anthoathecata,Pandeidae,Halitholus,"Hartlaub, 1914",halitholus
 Harpacticoida,urn:lsid:marinespecies.org:taxname:1102,Order,Animalia,Arthropoda,Copepoda,Harpacticoida,,,"Sars G.O., 1903",harpacticoida
-Hemicyclops,urn:lsid:marinespecies.org:taxname:394447,Genus,Animalia,Arthropoda,Copepoda,Cyclopoida,Clausidiidae,Hemicyclops,"Boeck, 1872",hemicyclops
+Hemicyclops,urn:lsid:marinespecies.org:taxname:394447,Genus,Animalia,Arthropoda,Copepoda,Cyclopoida,Clausidiidae,Hemicyclops,"Boeck, 1873",hemicyclops
 Hemigrapsus,urn:lsid:marinespecies.org:taxname:106964,Genus,Animalia,Arthropoda,Malacostraca,Decapoda,Varunidae,Hemigrapsus,"Dana, 1851",hemigrapsus
 Heterorhabdus,urn:lsid:marinespecies.org:taxname:104178,Genus,Animalia,Arthropoda,Copepoda,Calanoida,Heterorhabdidae,Heterorhabdus,"Giesbrecht, 1898",heterorhabdus
 Heterorhabdus tanneri,urn:lsid:marinespecies.org:taxname:196782,Species,Animalia,Arthropoda,Copepoda,Calanoida,Heterorhabdidae,Heterorhabdus,"(Giesbrecht, 1895)",heterorhabdus tanneri
@@ -134,10 +134,10 @@ Lopholithodes,urn:lsid:marinespecies.org:taxname:378124,Genus,Animalia,Arthropod
 Lophopanopeus bellus,urn:lsid:marinespecies.org:taxname:443976,Species,Animalia,Arthropoda,Malacostraca,Decapoda,Panopeidae,Lophopanopeus,"(Stimpson, 1860)",lophopanopeus bellus
 Majoidea,urn:lsid:marinespecies.org:taxname:106700,Superfamily,Animalia,Arthropoda,Malacostraca,Decapoda,,,"Samouelle, 1819",majoidea
 Melicertum octocostatum,urn:lsid:marinespecies.org:taxname:117743,Species,Animalia,Cnidaria,Hydrozoa,Leptothecata,Melicertidae,Melicertum,"(M. Sars, 1835)",melicertum octocostatum
-Mesocalanus tenuicornis,urn:lsid:marinespecies.org:taxname:104468,Species,Animalia,Arthropoda,Copepoda,Calanoida,Calanidae,Mesocalanus,"(Dana, 1849)",mesocalanus tenuicornis
+Mesocalanus tenuicornis,urn:lsid:marinespecies.org:taxname:104468,Species,Animalia,Arthropoda,Copepoda,Calanoida,Calanidae,Mesocalanus,"(Dana, 1849-1852)",mesocalanus tenuicornis
 Metacarcinus gracilis,urn:lsid:marinespecies.org:taxname:440387,Species,Animalia,Arthropoda,Malacostraca,Decapoda,Cancridae,Metacarcinus,"(Dana, 1852)",metacarcinus gracilis
 Metacarcinus magister,urn:lsid:marinespecies.org:taxname:440388,Species,Animalia,Arthropoda,Malacostraca,Decapoda,Cancridae,Metacarcinus,"(Dana, 1852)",metacarcinus magister
-Meterythrops robustus,urn:lsid:marinespecies.org:taxname:446462,Species,Animalia,Arthropoda,Malacostraca,Mysida,Mysidae,Meterythrops,"Smith, 1879",meterythrops robustus
+Meterythrops robustus,urn:lsid:marinespecies.org:taxname:446462,Species,Animalia,Arthropoda,Malacostraca,Mysida,Mysidae,Meterythrops,"S.I. Smith, 1879",meterythrops robustus
 Metridia pacifica,urn:lsid:marinespecies.org:taxname:196784,Species,Animalia,Arthropoda,Copepoda,Calanoida,Metridinidae,Metridia,"Brodsky, 1950",metridia pacifica
 Metridiidae,urn:lsid:marinespecies.org:taxname:100678,Family,Animalia,Cnidaria,Hexacorallia,Actiniaria,Metridiidae,,"Carlgren, 1893",metridiidae
 Microcalanus,urn:lsid:marinespecies.org:taxname:104164,Genus,Animalia,Arthropoda,Copepoda,Calanoida,Clausocalanidae,Microcalanus,"Sars G.O., 1903",microcalanus
@@ -202,7 +202,7 @@ Polychaeta,urn:lsid:marinespecies.org:taxname:883,Class,Animalia,Annelida,Polych
 Porcellanidae,urn:lsid:marinespecies.org:taxname:106734,Family,Animalia,Arthropoda,Malacostraca,Decapoda,Porcellanidae,,"Haworth, 1825",porcellanidae
 Primno macropa,urn:lsid:marinespecies.org:taxname:180759,Species,Animalia,Arthropoda,Malacostraca,Amphipoda,Phrosinidae,Primno,"Guérin-Méneville, 1836",primno macropa
 Proboscidactyla flavicirrata,urn:lsid:marinespecies.org:taxname:117834,Species,Animalia,Cnidaria,Hydrozoa,Anthoathecata,Proboscidactylidae,Proboscidactyla,"Brandt, 1835",proboscidactyla flavicirrata
-Pseudocalanus,urn:lsid:marinespecies.org:taxname:104165,Genus,Animalia,Arthropoda,Copepoda,Calanoida,Clausocalanidae,Pseudocalanus,"Boeck, 1872",pseudocalanus
+Pseudocalanus,urn:lsid:marinespecies.org:taxname:104165,Genus,Animalia,Arthropoda,Copepoda,Calanoida,Clausocalanidae,Pseudocalanus,"Boeck, 1873",pseudocalanus
 Pseudocalanus mimus,urn:lsid:marinespecies.org:taxname:355067,Species,Animalia,Arthropoda,Copepoda,Calanoida,Clausocalanidae,Pseudocalanus,"Frost, 1989",pseudocalanus mimus
 Pseudocalanus minutus,urn:lsid:marinespecies.org:taxname:104517,Species,Animalia,Arthropoda,Copepoda,Calanoida,Clausocalanidae,Pseudocalanus,"(Krøyer, 1845)",pseudocalanus minutus
 Pseudocalanus moultoni,urn:lsid:marinespecies.org:taxname:157678,Species,Animalia,Arthropoda,Copepoda,Calanoida,Clausocalanidae,Pseudocalanus,"Frost, 1989",pseudocalanus moultoni
