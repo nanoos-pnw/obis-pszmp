@@ -18,7 +18,7 @@
     },
     "net_tow": {
         "Oblique": "oblique",
-        "Vertical": "full water column vertical"
+        "Vertical": "vertical"
     },
     "sex_dwciri_terms": {
         "female": "S10/current/S102",
