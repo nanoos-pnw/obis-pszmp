@@ -116,6 +116,10 @@ def read_and_parse_sourcedata(test_n_rows=None):
         index=source_df.index
     )
 
+    # There are duplicate records in the source spreadsheet (12/12/2024: I found 8 records that occur twice)
+    # Remove these duplicates
+    source_df = source_df.drop_duplicates().reset_index(drop=True)
+
     return source_df.copy()
 
 
